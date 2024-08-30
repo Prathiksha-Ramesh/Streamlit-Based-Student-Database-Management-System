@@ -3,7 +3,7 @@
 This project showcases a student database management system built using Streamlit. The system integrates with a SQLite database to perform CRUD (Create, Read, Update, Delete) operations. The application leverages SQLAlchemy for database interaction and dotenv for environment variable management.
 
 ## Project Structure
-
+```
 project-directory/
  │ ├── app.py 
  ├── final.py 
@@ -13,6 +13,7 @@ project-directory/
  ├── README.md 
  ├── LICENSE 
  └── .gitignore
+```
 
  
 ## Getting Started
