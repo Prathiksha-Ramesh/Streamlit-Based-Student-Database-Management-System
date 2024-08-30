@@ -1,0 +1,5 @@
+streamlit 
+pathlib
+sqlalchemy
+python-dotenv
+mysql
